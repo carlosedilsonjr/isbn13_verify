@@ -19,4 +19,4 @@ Test file. In this file I test whether the initialized number is really a number
 
 Run the test:
 
-    $ rspec ./isbn_verify_spec.rb
+    rspec ./isbn_verify_spec.rb
